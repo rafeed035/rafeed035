@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Golam Shahed Rafeed</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Android App Development**
+- 🌱 I’m currently learning **Spring Boot and Backend Technology**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rafeed035](https://github.com/rafeed035)
 
