@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Spring Boot and Backend Technology<br><br>👨‍💻 All of my projects are available at https://github.com/rafeed035<br><br>💬 Ask me about Java, Spring, Spring Boot, MySQL<br><br>⚡ Fun fact I am an entrepreneur and have a small software startup
+🌱 I’m currently learning Spring Boot and Backend Technology<br><br>👨‍💻 All of my projects are available at https://github.com/rafeed035<br><br>💬 Ask me about Java, Spring, Spring Boot, MySQL<br><br>⚡ Fun fact I am an entrepreneur and own a small software company.
 
 
 ## 🌐 Socials:
